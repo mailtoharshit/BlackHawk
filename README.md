@@ -1,2 +1,2 @@
-# BlackHawk
-Controlling Drone Motion through Node.js
+# BlackHawk (Alpha) 
+Controlling Drone Motion through Node.js, first layer enhaving support for Syma
