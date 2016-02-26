@@ -1,7 +1,7 @@
 {
     "name": "NodeCopter-Trail",
     "description": "NodeCopter Trail",
-    "author": "Rohit Ghatol",
+    "author": "Harshit Pandey",
     "version": "0.0.1",
     "dependencies": {
         "ar-drone": "latest",
@@ -13,5 +13,5 @@
     "devDependencies": {
 
     },
-    "engine": "node >= 0.6.6"
+    "engine": "node >= 1.6.6"
 }
